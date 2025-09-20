@@ -1,0 +1,5 @@
+vessel_imo,vessel_name,vessel_flag,vessel_type,eta_place_name,eta_country_name,eta_date,last_reported_port,last_reported_country,last_reported_port_sail_date,destination_port,destination_country,vessel_technical_manager
+9380374,SEA LA BELLE,Liberia,Tanker,LAVERA,FRANCE,08/11/2025,BARCELONA,SPAIN,,LAVERA,FRANCE,
+9388704,SONGA EAGLE,Malta,Tanker,PORT-JEROME,FRANCE,08/12/2025,SKAGEN,DENMARK,,PORT-JEROME,FRANCE,
+9893046,PACIFIC DIAMOND,Marshall Islands,Tanker,FOS-SUR-MER,FRANCE,08/28/2025,ROTTERDAM,NETHERLANDS,,FOS-SUR-MER,FRANCE,
+9902859,LONE STAR MARINER,Marshall Islands,Tanker,LE HAVRE,FRANCE,08/14/2025,AMSTERDAM,NETHERLANDS,,LE HAVRE,FRANCE,
