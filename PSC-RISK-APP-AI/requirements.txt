@@ -1,0 +1,8 @@
+streamlit>=1.33.0
+pandas>=2.2.2
+numpy>=1.26.4
+scikit-learn>=1.4.2
+lightgbm>=4.3.0
+openpyxl>=3.1.2
+xlsxwriter>=3.2.0
+pyarrow>=15.0.2
